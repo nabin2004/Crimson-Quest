@@ -1,14 +1,5 @@
 # Crimson-Quest
 
-![Aspose Words 8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8 009](https://user-images.githubusercontent.com/107109731/223066584-35d46cf1-31b2-4c9a-ad52-e80ab296c2a7.png)
-![Aspose Words 8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8 008](https://user-images.githubusercontent.com/107109731/223066576-06850faf-edc5-4020-82a0-c398f8ba2f26.png)
-![Aspose Words 8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8 001](https://user-images.githubusercontent.com/107109731/223066587-c4984cdc-67fc-4009-a743-2a9e7d9ac8d4.png)
-![Aspose Words 8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8 002](https://user-images.githubusercontent.com/107109731/223066590-19b751e0-d966-46f1-8aaa-c74146168ac3.png)
-![Aspose Words 8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8 003](https://user-images.githubusercontent.com/107109731/223066592-e09b62ad-9575-4998-a174-7755ad2e438c.png)
-![Aspose Words 8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8 004](https://user-images.githubusercontent.com/107109731/223066596-173f539f-c7b1-4b9a-8f68-9765aa041575.png)
-![Aspose Words 8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8 005](https://user-images.githubusercontent.com/107109731/223066599-6b85fc6b-e87e-4825-bc3e-9e922b0f6bc4.jpeg)
-![Aspose Words 8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8 006](https://user-images.githubusercontent.com/107109731/223066601-1d3380c5-b442-43ce-937b-23c47d2dd073.png)
-![Aspose Words 8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8 007](https://user-images.githubusercontent.com/107109731/223066606-e3d25bb2-717a-47d6-9154-5f21f68b43ff.png)
 
 
 05,March2023
@@ -17,111 +8,120 @@
 
 NabinOli
 
-SunwayIntl.BusinessSchool Maitidevi,Kathmandu Kathmandu,ST44000![](Aspose.Words.8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8.004.png)
+SunwayIntl.BusinessSchool 
+Maitidevi,Kathmandu 
+Kathmandu,ST44000!
+[](Aspose.Words.8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8.004.png)
 
-12![](Aspose.Words.8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8.004.png)
+
 
 Overview
 
-“Youknow,someonetoldmethatIwasn'tgoodenoughbecauseIdidn'tgetachancetoattend TribhuvanUniversity.Theirwordshurtmedeeply,andforawhile,Ilettheirnegativityconsume me.Butafterthoroughconsideration,IrealizedthatIdidn'tneedtoprovemyselftoanyone. Instead,IcameupwiththeideaofusingonlineresourcestoacquireaHarvardUniversity-level educationinNepalandmakemyselfevenbetterthanwhattheythoughtIcouldn'tbe.Whysettle forbeingjust"goodenough"whenIhavethechancetobegreat?I'mnotdoingthisjusttoprove someonewrong,butrathertoprovetomyselfthatI'mcapableofachievingmygoals,nomatter whatobstaclescomemyway.Andwhoknows,maybeonedayI'llevensurpasstheirexpectations andinspireotherstodothesame.”
-
-**CrimsonQuest**isapersonaldevelopmentprojectthatdrawsinspirationfromthecolorcrimson, whichisthenationalcolorofNepal,andisalsotheofficialcolorofHarvardUniversity.The projectseekstoembodythespiritoflearningandgrowththatissynonymouswithHarvard UniversitylivinginNepal,andtofosteramindsetofcontinuousself-improvement. ThecentralgoalofCrimsonQuestistogainknowledgeandskillsthatareonparwiththelevel ofHarvardUniversity.Thisinvolvesacommitmenttolifelonglearningandawillingnessto challengeoneselfintellectually.Theprojectrecognizesthateducationisnotlimitedtoformal classroomsettings,andencouragesexplorationandexperimentationinvariousfieldsofstudy. Inadditiontoacademicpursuits,CrimsonQuestemphasizespersonaldevelopmentand self-awareness.Theprojectencouragesindividualstoreflectontheirvalues,beliefs,andgoals, andtodevelopastrongsenseofpurposeanddirectioninlife.Italsoemphasizestheimportance ofdevelopingpositivehabitsandroutines,suchasregularexercise,healthyeating,and mindfulnesspractices.
-
-Overall,CrimsonQuestisaprojectthatembodiestheidealsoflearning,growth,and self-improvement.Itseekstoinspireindividualstostriveforexcellenceinallareasoftheirlives, andtodevelopasenseofpurposeandmeaningthattranscendstraditionalnotionsofsuccess.
-
+Crimson Quest is a personal development project that draws inspiration from the color crimson,
+which is the national color of Nepal, and is also the official color of Harvard University. The
+project seeks to embody the spirit of learning and growth that is synonymous with Harvard
+University living in Nepal, and to foster a mindset of continuous self-improvement.
+The central goal of Crimson Quest is to gain knowledge and skills that are on par with the level
+of Harvard University. This involves a commitment to lifelong learning and a willingness to
+challenge oneself intellectually. The project recognizes that education is not limited to formal
+classroom settings, and encourages exploration and experimentation in various fields of study.
+In addition to academic pursuits, Crimson Quest emphasizes personal development and
+self-awareness. The project encourages individuals to reflect on their values, beliefs, and goals,
+and to develop a strong sense of purpose and direction in life. It also emphasizes the importance
+of developing positive habits and routines, such as regular exercise, healthy eating, and
+mindfulness practices.
+Overall, Crimson Quest is a project that embodies the ideals of learning, growth, and
+self-improvement. It seeks to inspire individuals to strive for excellence in all areas of their lives,
+and to develop a sense of purpose and meaning that transcends traditional notions of success.
+2
 Goals
-
-1. GainknowledgethatisofHarvardLevel
-1. Learnthefundamentalsofdatascience,includingstatistics,programming,anddata visualization.
-1. Completeaseriesofonlinecoursesortutorialsontopicslikemachinelearning,data mining,orbigdata.
-1. Participateinonlinecommunities,suchasDataScienceTwitter,bysharinginsightsand askingquestions.
-1. Createdatascienceprojectsthatdemonstratemyskillsandknowledge,andsharethem onTwitter.
-1. Attendvirtualconferencesorwebinarsondatasciencetopicstostayup-to-datewiththe latesttrendsandtechnologies.
-1. Collaboratewithotherlearnerstoworkondatascienceprojectsorbuildaportfolio.
-1. Engagewithindustryexperts,thoughtleaders,andinfluencersonTwittertoexpandyour networkandlearnfromtheirexperiences.
-1. Measureyourprogressbyregularlyreflectingonyourlearningjourneyandtrackingyour achievements.
-
-Herearesomesummarizedversionsofgoals:
-
-- Learndatasciencefundamentals
-- Completeonlinecourses/tutorials
-- Participateinonlinecommunities
-- Createdatascienceprojects
-- Attendvirtualconferences/webinars
-- Collaboratewithotherlearners
-- Engagewithindustryexperts
-- Measureprogressregularly
-
+1. Gain knowledge that is of Harvard Level
+2. Learn the fundamentals of data science, including statistics, programming, and data
+visualization.
+3. Complete a series of online courses or tutorials on topics like machine learning, data
+mining, or big data.
+4. Participate in online communities, such as Data Science Twitter, by sharing insights and
+asking questions.
+5. Create data science projects that demonstrate my skills and knowledge, and share them
+on Twitter.
+6. Attend virtual conferences or webinars on data science topics to stay up-to-date with the
+latest trends and technologies.
+7. Collaborate with other learners to work on data science projects or build a portfolio.
+8. Engage with industry experts, thought leaders, and influencers on Twitter to expand your
+network and learn from their experiences.
+9. Measure your progress by regularly reflecting on your learning journey and tracking your
+achievements.
+Here are some summarized versions of goals:
+● Learn data science fundamentals
+● Complete online courses/tutorials
+● Participate in online communities
+● Create data science projects
+● Attend virtual conferences/webinars
+● Collaborate with other learners
+● Engage with industry experts
+● Measure progress regularly
 Milestones
+● Milestone 1: Complete an online course or tutorial on data science fundamentals, such as
+statistics or programming.
+3
+● Milestone 2: Participate in at least one Twitter chat or discussion on a data science topic.
+● Milestone 3: Create and share a simple data visualization project on Twitter.
+● Milestone 4: Attend a virtual conference or webinar on a data science topic.
+● Milestone 5: Collaborate with at least one other learner on a data science project or
+portfolio.
+● Milestone 6: Engage with at least three industry experts or thought leaders on Twitter.
+● Milestone 7: Complete an advanced online course or tutorial on a specific data science
+topic, such as machine learning or big data.
+● Milestone 8: Create and share an advanced data science project on Twitter.
+● Milestone 9: Attend a data science hackathon or competition, either online or in person.
+● Milestone 10: Reflect on your learning journey and accomplishments, and share your
+insights on Twitter.
 
-- Milestone1:Completeanonlinecourseortutorialondatasciencefundamentals,suchas statisticsorprogramming.
-- Milestone2:ParticipateinatleastoneTwitterchatordiscussiononadatasciencetopic.
-- Milestone3:CreateandshareasimpledatavisualizationprojectonTwitter.
-- Milestone4:Attendavirtualconferenceorwebinaronadatasciencetopic.
-- Milestone5:Collaboratewithatleastoneotherlearneronadatascienceprojector portfolio.
-- Milestone6:EngagewithatleastthreeindustryexpertsorthoughtleadersonTwitter.
-- Milestone7:Completeanadvancedonlinecourseortutorialonaspecificdatascience topic,suchasmachinelearningorbigdata.
-- Milestone8:CreateandshareanadvanceddatascienceprojectonTwitter.
-- Milestone9:Attendadatasciencehackathonorcompetition,eitheronlineorinperson.
-- Milestone10:Reflectonyourlearningjourneyandaccomplishments,andshareyour insightsonTwitter.
-
-SyllabusforComputerScience+DataScienceCourse
-
-**A.IntroductiontoComputerScience**
-
-1.ProgrammingConceptsandTechniques
-
-2.AlgorithmsandDataStructures **B.IntroductiontoDataScience**
-
-1.DataWranglingandCleaning
-
-2.ExploratoryDataAnalysis
-
-3.StatisticalInferenceandHypothesisTesting **C.AdvancedTopicsinComputerScience**
-
-1.ComputerArchitectureandSystems
-
-2.SoftwareEngineeringandDevelopment **D.AdvancedTopicsinDataScience**
-
-1.MachineLearningandArtificialIntelligence
-
-2.BigDataAnalyticsandDataMining **E.CapstoneProject**
-
-1.Typicallyassignedinupper-levelcourses
-
-2.Studentsworkonareal-worldproblemusingcomputerscienceanddatascience techniques
-
-OutlineofhowHarvardstudentsaretested,assessed,andexaminedincomputer scienceanddatasciencecourses:
-
-**I.TestingandAssessment A.HomeworkAssignments**
-
-1.Regularlyassignedthroughoutthecourse 2.Usedtoreinforceconceptscoveredinlectures
-
-**B.In-ClassQuizzes**
-
-1.Typicallyshortandgiveninclass
-
-2.Usedtoassessunderstandingofrecentlecturetopics **C.Exams**
-
-1.MidtermExam
-
-a.Givenmidwaythroughthecourse
-
-b.Coversmaterialuptothatpointinthecourse 2.FinalExam
-
-a.Givenattheendofthecourse b.Comprehensiveexamcoveringallmaterialinthecourse
-
-**D.Projects**
-
-1.Typicallyassignedinupper-levelcourses 2.Usedtoassessunderstandingandapplicationofcoursematerial
-
+Syllabus for Computer Science + Data Science Course
+A. Introduction to Computer Science
+1. Programming Concepts and Techniques
+2. Algorithms and Data Structures
+B. Introduction to Data Science
+1. Data Wrangling and Cleaning
+2. Exploratory Data Analysis
+3. Statistical Inference and Hypothesis Testing
+C. Advanced Topics in Computer Science
+1. Computer Architecture and Systems
+2. Software Engineering and Development
+D. Advanced Topics in Data Science
+1. Machine Learning and Artificial Intelligence
+2. Big Data Analytics and Data Mining
+E. Capstone Project
+1. Typically assigned in upper-level courses
+4
+2. Students work on a real-world problem using computer science and data science
+techniques
+Outline of how Harvard students are tested, assessed, and examined in computer
+science and data science courses:
+I. Testing and Assessment
+A. Homework Assignments
+1. Regularly assigned throughout the course
+2. Used to reinforce concepts covered in lectures
+B. In-Class Quizzes
+1. Typically short and given in class
+2. Used to assess understanding of recent lecture topics
+C. Exams
+1. Midterm Exam
+a. Given midway through the course
+b. Covers material up to that point in the course
+2. Final Exam
+a. Given at the end of the course
+b. Comprehensive exam covering all material in the course
+D. Projects
+1. Typically assigned in upper-level courses
+2. Used to assess understanding and application of course material
 ![](Aspose.Words.8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8.005.jpeg)
 
 ![](Aspose.Words.8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8.006.png)
 
 This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by **David J. Malan**, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x , CS50, is Harvard's largest course.
 
-Herearesomeintroductorycourses,thatIwillbetaking:
+Here are some introductory courses, that I will be taking:
 
 1. **CS50**
 1. **Introduction to Computer Science Programming in Python**
@@ -224,17 +224,17 @@ Systems![](Aspose.Words.8536b14b-bc58-4b6c-bdc0-4a9429cf6ef8.009.png)
 
 ScottYoungintroducesustothefollowingprinciples:
 
-1. **Metalearning:**Firstdrawamap
-1. 10Percentruleforresearch
+1. **Metalearning:** First draw a map
+1. 10 Percent rule for research
 1. Why,What,How???
-2. **Focus:** Developconcentrationandallocatetime
-2. **Directness:**Learnbydoing
-2. **Drill:**Attackyourweakestpoint
-2. **Retrieval:**Testtolearn
-2. **Feedback:**Don’tdodgethepunches
-2. **Retention:**Paceyourselfforbetterretention
-2. **Intuition:**Developintuitionthroughplayandexploration
-2. **Experimentation:**Exploreoutsideyourcomfortzone
+2. **Focus:**  Develop concentration and allocate time
+2. **Directness:** Learn by doing
+2. **Drill:** Attack your weakest point
+2. **Retrieval:** Test to learn
+2. **Feedback:** Don’t dodge the punches
+2. **Retention:** Pace yourself for better retention
+2. **Intuition:** Develop intuition through play and exploration
+2. **Experimentation:** Explore outside your comfort zone
 
 ELEMENTSREQUIRED:
 
